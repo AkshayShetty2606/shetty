@@ -1,6 +1,6 @@
 <style>
 h1{
-    color:rgb(218, 39, 39);
+    color:rgb(46, 11, 11);
     text-align:center;
     font-size: 70px;
     background: rgb(63,94,251);
@@ -12,6 +12,8 @@ background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(5,25,62,0.6530987
     font-size: 30px;
     margin-left: 5%;
 }
+
+
 form{
     padding-top: 30px;
     background: rgb(63,94,251);
@@ -26,4 +28,4 @@ img{
   bottom: 30px;
 }
 
- </style>
+</style>
