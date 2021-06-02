@@ -1,6 +1,6 @@
 <style>
 h1{
-    color:black;
+    color:rgb(218, 39, 39);
     text-align:center;
     font-size: 70px;
     background: rgb(63,94,251);
@@ -11,7 +11,6 @@ background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(5,25,62,0.6530987
     color:rgb(77, 6, 12);
     font-size: 30px;
     margin-left: 5%;
-    
 }
 form{
     padding-top: 30px;
@@ -22,13 +21,9 @@ background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(5,25,62,0.6530987
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 img{
-
     position:absolute;
    left:650px;
   bottom: 30px;
-}
-.boxed{
-    border: 1px solid green
 }
 
  </style>
